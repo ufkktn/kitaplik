@@ -1,7 +1,7 @@
 import socket
 
 
-HOST = socket.gethostbyname("192.168.0.104")
+HOST = socket.gethostbyname("10.190.10.211")
 PORT = 7525
 s = socket.socket()
 
